@@ -1,0 +1,32 @@
+Power:
+
+
+Display input:
+
+
+Settings:
+
+
+Volume up:
+
+
+Volume down:
+
+
+Back:
+
+
+Up:
+
+
+Down:
+
+
+Left:
+
+
+Right:
+
+
+OK:
+
